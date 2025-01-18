@@ -21,8 +21,7 @@
 
 
 
-[<img align="left" alt="William Chalmi | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/william-chalmi-6319a3169/)" />][linkedin]
-
+[<img align="left" alt="WIlliam Chalmi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]:https://www.linkedin.com/in/william-chalmi-6319a3169/
 
