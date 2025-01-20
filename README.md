@@ -1,4 +1,4 @@
-<h1>Hi, I'm William <br/> <a href="[[https://www.linkedin.com/in/joshmadakor](https://www.linkedin.com/in/william-chalmi-6319a3169/)/](https://www.linkedin.com/in/william-chalmi-6319a3169/)">Cybersecurity Professional</a>,</h1>
+<h1>Hi, I'm William <br/> <a href="[[https://www.linkedin.com/in/joshmadakor](https://www.linkedin.com/in/william-chalmi-6319a3169/)/](https://www.linkedin.com/in/william-chalmi-6319a3169/)">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
